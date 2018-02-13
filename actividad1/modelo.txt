@@ -1,0 +1,12 @@
+Le contratan para hacer una BD que permita mantener la contabilidad básica de una sala de cómputos de internet 
+que contiene un número de computadores. Este café internet necesita llevar el control de facturación, registro 
+de ingresos, registro de gastos e inventarios.
+El control de factura tiene como básico la gestión, el control de ingreso y los gastos.
+El registro de ingreso tiene nombre del cliente y horas usadas.
+El registro de gastos tiene costos de venta, inversiones de los computadores.
+El inventario lleva compra, cantidad, valor y total.
+Por razones de contabilidad, se debe registrar la información de cada inventario con un control de ingreso y 
+descuento. Además se debe guardar la cantidad en numero de horas usadas y el valor total de esta.
+
+
+
